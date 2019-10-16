@@ -1,0 +1,10 @@
+acclimation_conditions,experiment_conditions,mean,std.error
+cycle_acclimated,grown_in_cycle,0.46450273768028283,0.03330833389576943
+cycle_acclimated,grown_in_dark,0.2284860999139392,0.0511471975401824
+cycle_acclimated,grown_in_light,0.4186032427394256,0.03468581635571535
+dark_acclimated,grown_in_cycle,0.30935793197903527,0.028665900405685712
+dark_acclimated,grown_in_dark,0.2690451660574376,0.03183248892204039
+dark_acclimated,grown_in_light,0.5909310782128995,0.03471783551657561
+light_acclimated,grown_in_cycle,0.43394489198673947,0.04160697730996048
+light_acclimated,grown_in_dark,0.3621401951154018,0.0264582720507845
+light_acclimated,grown_in_light,0.28090248206887247,0.03600544114497033
